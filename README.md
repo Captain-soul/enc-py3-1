@@ -16,5 +16,5 @@ ls
 ```
 # USAGE py3
 ```
-python enc-py3
+python enc
 ```
